@@ -2,7 +2,8 @@
     "commerceSuiteVersion": "2105",
     "enableImageProcessingService": true,
     "extensions": [
-        "cloudmediaconversion",  
+        "cloudmediaconversion",
+        "apparelstore",
         "mediaconversionbackoffice"
     ],
     "useConfig": {
