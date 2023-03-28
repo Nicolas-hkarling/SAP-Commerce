@@ -4,6 +4,9 @@
     "extensions": [
         "cloudmediaconversion",
         "apparelstore",
+        "acceleratorwebservicesaddon",
+        "yacceleratorfulfilmentprocess",
+        "yacceleratorinitialdata",
         "mediaconversionbackoffice"
     ],
     "useConfig": {
