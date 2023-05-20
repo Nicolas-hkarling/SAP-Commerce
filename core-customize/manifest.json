@@ -8,7 +8,8 @@
         "yacceleratorfulfilmentprocess",
         "yacceleratorinitialdata",
         "yacceleratorstorefront",
-        "mediaconversionbackoffice"
+        "mediaconversionbackoffice",
+        "azurecloudhotfolder"
     ],
     "useConfig": {
         "properties": [
@@ -178,7 +179,7 @@
             "properties": [
                 {
                     "key": "cluster.node.groups",
-                    "value": "integration,yHotfolderCandidate"
+                    "value": "integration,yHotfolderCandidate,backgroundProcessing"
                 }
             ],
             "webapps": [
