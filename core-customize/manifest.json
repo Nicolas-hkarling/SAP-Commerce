@@ -8,8 +8,7 @@
         "yacceleratorfulfilmentprocess",
         "yacceleratorinitialdata",
         "yacceleratorstorefront",
-        "mediaconversionbackoffice",
-        "azurecloudhotfolder"
+        "mediaconversionbackoffice"
     ],
     "useConfig": {
         "properties": [
